@@ -1,5 +1,4 @@
-def func(x):
-    return x + 1
+from main import func
 
 
 def test_answer():
